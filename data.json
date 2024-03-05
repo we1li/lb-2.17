@@ -1,0 +1,17 @@
+[
+    {
+        "name_shop": "Магнит",
+        "name_product": "Молоко",
+        "prise": 72
+    },
+    {
+        "name_shop": "Магнит",
+        "name_product": "Сыр",
+        "prise": 135
+    },
+    {
+        "name_shop": "Магнит",
+        "name_product": "Колбаса",
+        "prise": 200
+    }
+]
